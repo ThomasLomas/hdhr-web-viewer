@@ -1,5 +1,5 @@
 {
-  "nxCloudAccessToken": "ZWM3NWE1NTYtMDYxYS00NTZiLWE3ZjEtOTgxYWJhZTMwZTUxfHJlYWQtd3JpdGU=",
+  "nxCloudAccessToken": "N2U0NDgwOTItZGE2My00Y2UwLWJhZDctOTEyMTk1YWY0NzdhfHJlYWQ=",
   "nxCloudUrl": "https://cloud.nx.app",
   "$schema": "./node_modules/nx/schemas/nx-schema.json",
   "namedInputs": {
@@ -37,6 +37,5 @@
         "targetName": "test"
       }
     }
-  ],
-  "nxCloudAccessToken": "MmNlMGRjNjUtNTM4Zi00MGIwLWFmY2MtNTcyZjI4ZDIyZWQ0fHJlYWQtd3JpdGU="
+  ]
 }
