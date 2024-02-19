@@ -36,12 +36,6 @@
       "options": {
         "targetName": "test"
       }
-    },
-    {
-      "plugin": "@nx/playwright/plugin",
-      "options": {
-        "targetName": "e2e"
-      }
     }
   ],
   "targetDefaults": {
@@ -53,7 +47,7 @@
   },
   "generators": {
     "@nx/angular:application": {
-      "e2eTestRunner": "playwright",
+      "e2eTestRunner": "none",
       "linter": "eslint",
       "style": "scss",
       "unitTestRunner": "jest"
